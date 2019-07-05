@@ -44,7 +44,7 @@ export default class Index extends React.Component {
               <h1>Contact</h1>
               <img
                 src={mailLogo}
-                alt="Kaldi"
+                alt="logo"
                 style={{
                   width: "340px",
                   display: "block",

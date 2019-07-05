@@ -12,7 +12,7 @@ intro:
   blurbs:
     - image: /img/shazamdownloader.png
       text: >
-        Shazam downloader was an app that allow you to download .mp3 directly on you phone. Reach 4K downloads on Aptoide app store. Check it by [clicking here](https://com-fldownload.it.aptoide.com/)
+        Shazam downloader was an app that allow you to download .mp3 directly on you phone. Reached 4K downloads on Aptoide app store. Check it by [clicking here](https://com-fldownload.it.aptoide.com/)
     - image: /img/metatrader4.png
       text: >
         Pending order panel was a innovative trading panel that assist trader in the order opening. It was fully created from scratch without any framework. [check the video](https://www.youtube.com/watch?v=O-wOgx38WzQ)

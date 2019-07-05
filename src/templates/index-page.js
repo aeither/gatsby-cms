@@ -78,6 +78,8 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
+                    <p><a href="https://www.giovannifulin.com" target="/">Minimalist One Page</a></p>
+                    <p><a href="https://monkeygram.giovannifulin.com" target="/">MonkeyGram</a> : Very simple instagram-like web app</p>                   
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
