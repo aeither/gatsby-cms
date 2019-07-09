@@ -21,7 +21,7 @@ intro:
         Hackathons, where you can learn new technologies, where people share ideas and where talents contribute to change the world.
     - image: /img/whatnext.png
       text: >
-        To bring my expertise in the development of the platform for the future of travel.
+        To bring my expertise in the development of the future.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
