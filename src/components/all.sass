@@ -27,18 +27,10 @@ $black: #2b2523
     margin-top: 0
 
 // Helper Classes
-.full-width-image-container
+.blog-title
   width: 100vw
-  height: 400px
-  position: relative
-  left: 50%
-  right: 50%
-  margin: 2em -50vw
-  background-size: cover
-  background-position: bottom
   display: flex
   justify-content: center
-  align-items: center
 
 .full-width-image
     width: 100vw
@@ -119,7 +111,19 @@ $menu-label-color: $white-ter
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
-
+.blog-box
+  border-radius: 0 0 8px 0;
+  color: #4a4a4a;
+  display: block;
+  background-color: #f2f2f2;
+.blog-content
+  font-size: 16px;
+  padding: 1rem;
+  color: black;
+  font-family: sans-serif;
+  font-weight: 600;
+.blog-content-description
+  font-weight: 400;
 
 @import "~bulma"
 
