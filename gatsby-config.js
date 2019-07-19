@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Giovanni Fu Lin',
     description:
-      'Built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Welcome to my official website, I am a software developer working with the latest technologies based in Milan.'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
